@@ -32,3 +32,4 @@
 *.app
 
 ejercicio-*
+!ejercicio-*.cpp
